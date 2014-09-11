@@ -4,5 +4,4 @@
 Lista de Exercícios
 
 
-Alunos: Johnatas Ferreira
-        Pedro Hermínio
+Alunos: Johnatas Ferreira <br> Pedro Hermínio
